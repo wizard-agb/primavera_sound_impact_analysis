@@ -6,6 +6,8 @@ The purpose of this project is to understand the impact of the Primavera Sound F
 ## Project Description
 In this project, we determine the impact of the Primavera Sound Festival in Barcelona using a differences and differences analysis. 
 
+
+### Differences and Differences Set Up
 First, we selected a control city, Valencia. We selected this city using a combination of climate and population statistics, and also made sure that there was no significant event happening in Valencia during the Primavera Sound festival week. 
 
 <center>
@@ -18,9 +20,13 @@ We selected comparable time frames for each location. For diff and diff, we sele
 <img width="469" alt="Screenshot 2025-01-27 at 11 37 32 AM" src="https://github.com/user-attachments/assets/45e5c300-be22-478a-88f6-df37b2fb50a1" />
 </center>
 
+### Data Overview
+
 We created a scraper of Booking.com to get data for the selected weeks, and collected metadata for hotel advertisements in each city.
 
 We engineered features including hotel distance from the event, review count, and review NLP analysis, and ran regressions.
+
+### Model Overview
 
 Here we see the baseline diff and diff analysis showing our city x event week control variable was highly significant, contributing to around a €106 increase in prices.
 
