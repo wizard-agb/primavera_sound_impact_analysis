@@ -13,8 +13,6 @@ We selected comparable time frames for each location. For diff and diff, we sele
 
 We created a scraper of Booking.com to get data for the selected weeks, and collected metadata for hotel advertisements in each city.
 
-We engineered features including hotel distance between each city
-
 We implemented the diff and diff analysis showing our city and event week control variable was highly significant leading to a nearly €106 increase in price. 
 
 <img width="782" alt="Screenshot 2024-04-12 at 7 03 36 PM" src="https://github.com/agbennett-bse/primavera_sound_impact_analysis/assets/145025558/fc877e9a-ade0-4759-b189-9557aeb649b2">
